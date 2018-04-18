@@ -1,7 +1,0 @@
-{
-    "python.linting.pylintEnabled": false,
-    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\envs\\opencv-env\\python.exe",
-    
-    "editor.fontSize": 20,
-    
-}
